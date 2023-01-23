@@ -1,0 +1,3 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/andrevms/NLW-Setup-Rocketseat-Mobile.git
